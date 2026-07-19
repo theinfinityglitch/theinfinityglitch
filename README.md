@@ -2,7 +2,7 @@
 
 ## A little bit about me
 
-Hi, I'm Antonio Alan or just Alan. I'm 17 years old. I'm a indie game developer for 7 years since my 10 years. I'm mainly a game programmer and game designer. Currently I'm working on a project called Orbit Rush on my free time. I have some programming language experience with Rust, C#, C++, GDScript, Python, Lua and Delphi (Pascal). I'm learning Zig, Javascript, Html and CSS now. Unfortunatelly I don't have cool things to show at the moment that I'm writing this because I scrapped everything through the time.
+Hi, I'm Antonio Alan or just Alan. I'm 18 years old. I'm a indie game developer for 8 years since my 10 years. I'm mainly a game programmer and game designer. Currently I'm working on a project called Orbit Rush on my free time. I have some programming language experience with Rust, C#, C++, GDScript, Python, Lua and Delphi (Pascal). I'm learning Zig, Javascript, Html and CSS now. Unfortunatelly I don't have cool things to show at the moment that I'm writing this because I scrapped everything through the time.
 
 ## Programming languages
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=Rust)
